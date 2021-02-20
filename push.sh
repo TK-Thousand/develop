@@ -1,0 +1,1 @@
+git pull && /www/server/nvm/versions/node/v14.15.5/bin/node push.js && git commit -a -m 'develop' && git push origin main
