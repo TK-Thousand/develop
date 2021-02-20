@@ -44,5 +44,5 @@ get_all_files() {
         fi
     done
 }
-echo "# Blogs List" >README.md
+echo "# OneGo Auto Commit" >README.md
 $(get_all_files . 1)
